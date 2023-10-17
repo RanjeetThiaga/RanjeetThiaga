@@ -19,7 +19,7 @@ I'm a B.Sc. (HONS) Bioinformatics graduate from AIMST University. Through these 
 
 ## Collaboration
 
-- 🤝  **Collaboration**: I'm open to collaborating on Computational biology projects that emphasize Artificial Intelligence and Machine Learning. If you have an exciting project in mind or if you're looking for a motivated and skilled team member, feel free to get in touch with me.
+- 🤝  **Let's Work Together**: I'm open to collaborating on Computational biology projects that emphasize Artificial Intelligence and Machine Learning. If you have an exciting project in mind or if you're looking for a motivated and skilled team member, feel free to get in touch with me.
 
 I'm always eager to learn, explore new opportunities, and contribute to the field of computational biology. Let's connect and explore the possibilities!
 
