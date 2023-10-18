@@ -3,7 +3,7 @@ Hi! 😃 My name is Ranjeet
 
 Bioinformatician 💻🧬 | AI & ML Enthusiastic 🖥📈
 -------------------------------------------------
-<img alt="Coder GIF" height=200 width=250 align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /><br>
+<img alt="Coder GIF" height=200 width=250  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /><br>
 I'm a B.Sc. (HONS) Bioinformatics graduate from AIMST University. Through these 3 years undergraduate program I have been exposed to practical details of computational biology and have hands-on learning with bioinformatics tools and databases along with some advance level of programming knowledge and database manipulation.
 
 ## To Reach me Out!
